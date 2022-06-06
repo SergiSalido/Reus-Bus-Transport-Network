@@ -1,0 +1,1366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="double" for="edge" id="d1"/>
+<key attr.name="id" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="3; Adrià Gual 1">
+  <data key="d0">1</data>
+</node>
+<node id="2; Adrià Gual 2">
+  <data key="d0">2</data>
+</node>
+<node id="214; Aeroclub de Reus 1">
+  <data key="d0">3</data>
+</node>
+<node id="225; Aeroclub de Reus 2">
+  <data key="d0">4</data>
+</node>
+<node id="1; Aeroport">
+  <data key="d0">5</data>
+</node>
+<node id="5; Agro Reus 1">
+  <data key="d0">6</data>
+</node>
+<node id="4; Agro Reus 2">
+  <data key="d0">7</data>
+</node>
+<node id="6; Alcolea">
+  <data key="d0">8</data>
+</node>
+<node id="8; Antoni Rubió i Lluch 1">
+  <data key="d0">9</data>
+</node>
+<node id="7; Antoni Rubió i Lluch 2">
+  <data key="d0">10</data>
+</node>
+<node id="187; Avinguda Barcelona">
+  <data key="d0">11</data>
+</node>
+<node id="10; Avinguda de Marià Fortuny 1">
+  <data key="d0">12</data>
+</node>
+<node id="9; Avinguda de Marià Fortuny 2">
+  <data key="d0">13</data>
+</node>
+<node id="12; Avinguda de Sant Jordi 1">
+  <data key="d0">14</data>
+</node>
+<node id="11; Avinguda de Sant Jordi 2">
+  <data key="d0">15</data>
+</node>
+<node id="207; Avinguda de Tarragona  1">
+  <data key="d0">16</data>
+</node>
+<node id="208; Avinguda de Tarragona  2">
+  <data key="d0">17</data>
+</node>
+<node id="186; Avinguda del comerç">
+  <data key="d0">18</data>
+</node>
+<node id="37; Avinguda.  Castellvell 2">
+  <data key="d0">19</data>
+</node>
+<node id="36; Avinguda. Castellvell 1">
+  <data key="d0">20</data>
+</node>
+<node id="195; Barri  Gaudi">
+  <data key="d0">21</data>
+</node>
+<node id="14; Barri Fortuny 1">
+  <data key="d0">22</data>
+</node>
+<node id="15; Barri Fortuny 2">
+  <data key="d0">23</data>
+</node>
+<node id="16; Barri Fortuny 2 bis">
+  <data key="d0">24</data>
+</node>
+<node id="13; Barri Montserrat">
+  <data key="d0">25</data>
+</node>
+<node id="18; Bellissens 1">
+  <data key="d0">26</data>
+</node>
+<node id="19; Bellissens 2">
+  <data key="d0">27</data>
+</node>
+<node id="233; Biblioteca Pere Anguera 1">
+  <data key="d0">28</data>
+</node>
+<node id="234; Biblioteca Pere Anguera 2">
+  <data key="d0">29</data>
+</node>
+<node id="20; Boca de la Mina">
+  <data key="d0">30</data>
+</node>
+<node id="27; CAP Marià Fortuny 1">
+  <data key="d0">31</data>
+</node>
+<node id="28; CAP Marià Fortuny 2">
+  <data key="d0">32</data>
+</node>
+<node id="29; CAP Sant Pere">
+  <data key="d0">33</data>
+</node>
+<node id="165; CESDA 1">
+  <data key="d0">34</data>
+</node>
+<node id="177; CESDA 2">
+  <data key="d0">35</data>
+</node>
+<node id="24; Camí de Tarragona 1">
+  <data key="d0">36</data>
+</node>
+<node id="23; Camí de Tarragona 2">
+  <data key="d0">37</data>
+</node>
+<node id="26; Camí de Valls 1">
+  <data key="d0">38</data>
+</node>
+<node id="25; Camí de Valls 2">
+  <data key="d0">39</data>
+</node>
+<node id="171; Carles Riba 1">
+  <data key="d0">40</data>
+</node>
+<node id="170; Carles Riba 2">
+  <data key="d0">41</data>
+</node>
+<node id="30; Carrilet">
+  <data key="d0">42</data>
+</node>
+<node id="31; Cementiri">
+  <data key="d0">43</data>
+</node>
+<node id="32; Clarassó">
+  <data key="d0">45</data>
+</node>
+<node id="128; Constantí 1">
+  <data key="d0">46</data>
+</node>
+<node id="127; Constantí 2">
+  <data key="d0">47</data>
+</node>
+<node id="39; Dipòsit de vehicles 1">
+  <data key="d0">48</data>
+</node>
+<node id="38; Dipòsit de vehicles 2">
+  <data key="d0">49</data>
+</node>
+<node id="42; Doctor  Vilaseca 2">
+  <data key="d0">50</data>
+</node>
+<node id="43; Doctor Vilaseca 1">
+  <data key="d0">51</data>
+</node>
+<node id="41; Dom Bosco 1">
+  <data key="d0">52</data>
+</node>
+<node id="40; Dom Bosco 2">
+  <data key="d0">53</data>
+</node>
+<node id="221; E. Eduard Toda 1">
+  <data key="d0">54</data>
+</node>
+<node id="222; E. Eduard Toda 2">
+  <data key="d0">55</data>
+</node>
+<node id="45; El Pinar">
+  <data key="d0">56</data>
+</node>
+<node id="44; El Pinar 1 (fora de servei)">
+  <data key="d0">57</data>
+</node>
+<node id="209; Escola Alba">
+  <data key="d0">58</data>
+</node>
+<node id="33; Escola M. Fortuny 1">
+  <data key="d0">59</data>
+</node>
+<node id="34; Escola M. Fortuny 2">
+  <data key="d0">60</data>
+</node>
+<node id="210; Escola d'idiomes i art">
+  <data key="d0">61</data>
+</node>
+<node id="46; Estació Autobusos 1">
+  <data key="d0">62</data>
+</node>
+<node id="47; Estació Autobusos 2">
+  <data key="d0">63</data>
+</node>
+<node id="49; Estadi Municipal 1">
+  <data key="d0">64</data>
+</node>
+<node id="203; Fira de Reus 1">
+  <data key="d0">66</data>
+</node>
+<node id="204; Fira de Reus 2">
+  <data key="d0">67</data>
+</node>
+<node id="52; Flix 1">
+  <data key="d0">68</data>
+</node>
+<node id="53; Flix 2">
+  <data key="d0">69</data>
+</node>
+<node id="54; Folch i Torres">
+  <data key="d0">70</data>
+</node>
+<node id="55; Font de Rubinat 1">
+  <data key="d0">71</data>
+</node>
+<node id="56; Font de Rubinat 2">
+  <data key="d0">72</data>
+</node>
+<node id="237; Fundació Rosa Maria Vivar 1">
+  <data key="d0">73</data>
+</node>
+<node id="238; Fundació Rosa Maria Vivar 2">
+  <data key="d0">74</data>
+</node>
+<node id="57; Gironès">
+  <data key="d0">75</data>
+</node>
+<node id="58; Greco 1">
+  <data key="d0">76</data>
+</node>
+<node id="59; Greco 2">
+  <data key="d0">77</data>
+</node>
+<node id="198; Hospital 1">
+  <data key="d0">80</data>
+</node>
+<node id="199; Hospital 2">
+  <data key="d0">81</data>
+</node>
+<node id="196; Hospital consultas externas 1">
+  <data key="d0">82</data>
+</node>
+<node id="197; Hospital consultas externas 2">
+  <data key="d0">83</data>
+</node>
+<node id="61; IES Domènech i Montaner">
+  <data key="d0">84</data>
+</node>
+<node id="166; IES Gaudí - Mas Carandell">
+  <data key="d0">85</data>
+</node>
+<node id="63; IPM 1">
+  <data key="d0">86</data>
+</node>
+<node id="211; IPM 2">
+  <data key="d0">87</data>
+</node>
+<node id="62; Immaculada">
+  <data key="d0">88</data>
+</node>
+<node id="168; Jardins de Reus 1">
+  <data key="d0">89</data>
+</node>
+<node id="64; Jardins de Reus 2">
+  <data key="d0">90</data>
+</node>
+<node id="65; Jaume I 1">
+  <data key="d0">91</data>
+</node>
+<node id="194; Jaume I 2">
+  <data key="d0">92</data>
+</node>
+<node id="224; Jaume Vidal Alcover">
+  <data key="d0">93</data>
+</node>
+<node id="67; Joan Rebull 1">
+  <data key="d0">94</data>
+</node>
+<node id="66; Joan Rebull 2">
+  <data key="d0">95</data>
+</node>
+<node id="69; Jutjats 1">
+  <data key="d0">96</data>
+</node>
+<node id="68; Jutjats 2">
+  <data key="d0">97</data>
+</node>
+<node id="70; La Salle 1">
+  <data key="d0">98</data>
+</node>
+<node id="71; La Salle 2">
+  <data key="d0">99</data>
+</node>
+<node id="200; La Vitxeta">
+  <data key="d0">100</data>
+</node>
+<node id="72; Llibertat">
+  <data key="d0">103</data>
+</node>
+<node id="73; Mare Molas 1">
+  <data key="d0">104</data>
+</node>
+<node id="74; Mare Molas 2">
+  <data key="d0">105</data>
+</node>
+<node id="223; Maria Aurèlia Campany">
+  <data key="d0">106</data>
+</node>
+<node id="172; Mas Abello 1">
+  <data key="d0">107</data>
+</node>
+<node id="75; Mas Abelló 2">
+  <data key="d0">108</data>
+</node>
+<node id="77; Mas Batlle 1">
+  <data key="d0">109</data>
+</node>
+<node id="76; Mas Batlle 2">
+  <data key="d0">110</data>
+</node>
+<node id="183; Mas Carpa 1">
+  <data key="d0">111</data>
+</node>
+<node id="227; Mas Carpa 2">
+  <data key="d0">112</data>
+</node>
+<node id="79; Mas de les Animes 1">
+  <data key="d0">113</data>
+</node>
+<node id="78; Mas de les Ànimes 2">
+  <data key="d0">114</data>
+</node>
+<node id="242; Mercè Rodoreda">
+  <data key="d0">115</data>
+</node>
+<node id="83; Miami 1">
+  <data key="d0">116</data>
+</node>
+<node id="84; Miami 2">
+  <data key="d0">117</data>
+</node>
+<node id="85; Misercòrdia 1">
+  <data key="d0">118</data>
+</node>
+<node id="86; Misericòrdia 2">
+  <data key="d0">119</data>
+</node>
+<node id="88; Niloga 1">
+  <data key="d0">120</data>
+</node>
+<node id="87; Niloga 2">
+  <data key="d0">121</data>
+</node>
+<node id="182; Nuestra Señora del Mar 1">
+  <data key="d0">122</data>
+</node>
+<node id="232; Nuestra Señora del Mar 2">
+  <data key="d0">123</data>
+</node>
+<node id="91; Oques 1">
+  <data key="d0">124</data>
+</node>
+<node id="92; Oques 2">
+  <data key="d0">125</data>
+</node>
+<node id="93; Oques 3">
+  <data key="d0">126</data>
+</node>
+<node id="95; Pablo Picasso 1">
+  <data key="d0">127</data>
+</node>
+<node id="94; Pablo Picasso 2">
+  <data key="d0">128</data>
+</node>
+<node id="21; Parc de la Festa 1">
+  <data key="d0">129</data>
+</node>
+<node id="22; Parc de la Festa 2">
+  <data key="d0">130</data>
+</node>
+<node id="97; Parcel·les Cases 1">
+  <data key="d0">131</data>
+</node>
+<node id="98; Parcel·les Cases 2">
+  <data key="d0">132</data>
+</node>
+<node id="99; Pare Manyanet 1">
+  <data key="d0">133</data>
+</node>
+<node id="100; Pare Manyanet 2">
+  <data key="d0">134</data>
+</node>
+<node id="109; Passeig de Prim 1">
+  <data key="d0">135</data>
+</node>
+<node id="110; Passeig de Prim 2">
+  <data key="d0">136</data>
+</node>
+<node id="111; Passeig de Sunyer 1">
+  <data key="d0">137</data>
+</node>
+<node id="112; Passeig de Sunyer 2">
+  <data key="d0">138</data>
+</node>
+<node id="108; Passeig dels Plàtans">
+  <data key="d0">139</data>
+</node>
+<node id="101; Pastoreta 1">
+  <data key="d0">140</data>
+</node>
+<node id="102; Pastoreta 2">
+  <data key="d0">141</data>
+</node>
+<node id="96; Països Catalans">
+  <data key="d0">142</data>
+</node>
+<node id="103; Peixateries Velles">
+  <data key="d0">143</data>
+</node>
+<node id="105; Pelai 1">
+  <data key="d0">144</data>
+</node>
+<node id="104; Pelai 2">
+  <data key="d0">145</data>
+</node>
+<node id="106; Pere Ceremoniós 1">
+  <data key="d0">146</data>
+</node>
+<node id="107; Pere Ceremoniós 2">
+  <data key="d0">147</data>
+</node>
+<node id="113; Piscines Municipals 1">
+  <data key="d0">148</data>
+</node>
+<node id="114; Piscines Municipals 2">
+  <data key="d0">149</data>
+</node>
+<node id="115; Plaça Almoster 1">
+  <data key="d0">150</data>
+</node>
+<node id="116; Plaça Almoster 2">
+  <data key="d0">151</data>
+</node>
+<node id="119; Plaça Hèrcules 1">
+  <data key="d0">152</data>
+</node>
+<node id="120; Plaça Hèrcules 2">
+  <data key="d0">153</data>
+</node>
+<node id="118; Plaça de Prim">
+  <data key="d0">154</data>
+</node>
+<node id="122; Ploms 1">
+  <data key="d0">155</data>
+</node>
+<node id="121; Ploms 2">
+  <data key="d0">156</data>
+</node>
+<node id="51; Pompeu Fabra 1">
+  <data key="d0">157</data>
+</node>
+<node id="50; Pompeu Fabra 2">
+  <data key="d0">158</data>
+</node>
+<node id="130; RENFE 1">
+  <data key="d0">159</data>
+</node>
+<node id="129; RENFE 2">
+  <data key="d0">160</data>
+</node>
+<node id="123; Raval de Martí Folguera">
+  <data key="d0">161</data>
+</node>
+<node id="124; Raval de Robuster 1">
+  <data key="d0">162</data>
+</node>
+<node id="219; Raval de Robuster 2">
+  <data key="d0">163</data>
+</node>
+<node id="126; Recasens i Mercade 1">
+  <data key="d0">164</data>
+</node>
+<node id="125; Recasens i Mercadé 2">
+  <data key="d0">165</data>
+</node>
+<node id="202; Regulació Nou Hospital">
+  <data key="d0">166</data>
+</node>
+<node id="132; Reus Transport">
+  <data key="d0">167</data>
+</node>
+<node id="133; Riera">
+  <data key="d0">168</data>
+</node>
+<node id="135; Riera Aragó 1">
+  <data key="d0">169</data>
+</node>
+<node id="134; Riera Aragó 2">
+  <data key="d0">170</data>
+</node>
+<node id="136; Ripollès">
+  <data key="d0">171</data>
+</node>
+<node id="137; Riudoms 1">
+  <data key="d0">172</data>
+</node>
+<node id="138; Riudoms 2">
+  <data key="d0">173</data>
+</node>
+<node id="190; Rosaleda 1">
+  <data key="d0">174</data>
+</node>
+<node id="216; Rosaleda 2">
+  <data key="d0">175</data>
+</node>
+<node id="140; Rovira i Virgili 1">
+  <data key="d0">176</data>
+</node>
+<node id="139; Rovira i Virgili 2">
+  <data key="d0">177</data>
+</node>
+<node id="17; Sagrada Familia">
+  <data key="d0">178</data>
+</node>
+<node id="145; Sant Bernat Calbó 1">
+  <data key="d0">179</data>
+</node>
+<node id="146; Sant Bernat Calbó 2">
+  <data key="d0">180</data>
+</node>
+<node id="229; Sant Joan 1">
+  <data key="d0">181</data>
+</node>
+<node id="230; Sant Joan 2">
+  <data key="d0">182</data>
+</node>
+<node id="179; Sant Josep 1">
+  <data key="d0">183</data>
+</node>
+<node id="117; Sant Josep 2">
+  <data key="d0">184</data>
+</node>
+<node id="142; Saragossa">
+  <data key="d0">185</data>
+</node>
+<node id="144; Sol i Vista 1">
+  <data key="d0">186</data>
+</node>
+<node id="143; Sol i Vista 2">
+  <data key="d0">187</data>
+</node>
+<node id="148; Tanatori 1">
+  <data key="d0">188</data>
+</node>
+<node id="147; Tanatori 2">
+  <data key="d0">189</data>
+</node>
+<node id="205; Tecnoparc 1">
+  <data key="d0">190</data>
+</node>
+<node id="206; Tecnoparc 2">
+  <data key="d0">191</data>
+</node>
+<node id="149; Tirant Lo Blanc">
+  <data key="d0">192</data>
+</node>
+<node id="150; Universitat 1">
+  <data key="d0">193</data>
+</node>
+<node id="151; Universitat 2">
+  <data key="d0">194</data>
+</node>
+<node id="152; Urb. Juncosa 1">
+  <data key="d0">195</data>
+</node>
+<node id="153; Urb. Juncosa 2">
+  <data key="d0">196</data>
+</node>
+<node id="220; Urb. Pàmies 2">
+  <data key="d0">197</data>
+</node>
+<node id="235; Urbanització Mercader">
+  <data key="d0">198</data>
+</node>
+<node id="154; Vall d'Aran">
+  <data key="d0">199</data>
+</node>
+<node id="156; Ventura Gassol 1">
+  <data key="d0">200</data>
+</node>
+<node id="155; Ventura Gassol 2">
+  <data key="d0">201</data>
+</node>
+<node id="158; Victor Català 1">
+  <data key="d0">202</data>
+</node>
+<node id="157; Victor Català 2">
+  <data key="d0">203</data>
+</node>
+<node id="159; Vidal i Barraquer">
+  <data key="d0">204</data>
+</node>
+<node id="236; Vidal i Barraquer 1">
+  <data key="d0">205</data>
+</node>
+<node id="160; Vilafortuny 1">
+  <data key="d0">206</data>
+</node>
+<node id="161; Vilafortuny 2">
+  <data key="d0">207</data>
+</node>
+<node id="162; Vilallonga">
+  <data key="d0">208</data>
+</node>
+<node id="167; Villablanca 1">
+  <data key="d0">209</data>
+</node>
+<node id="231; Villablanca 2">
+  <data key="d0">210</data>
+</node>
+<edge id="0" source="3; Adrià Gual 1" target="140; Rovira i Virgili 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="2; Adrià Gual 2" target="76; Mas Batlle 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="214; Aeroclub de Reus 1" target="165; CESDA 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="225; Aeroclub de Reus 2" target="1; Aeroport">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="1; Aeroport" target="214; Aeroclub de Reus 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="5; Agro Reus 1" target="8; Antoni Rubió i Lluch 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="4; Agro Reus 2" target="139; Rovira i Virgili 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="6; Alcolea" target="186; Avinguda del comerç">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="8; Antoni Rubió i Lluch 1" target="39; Dipòsit de vehicles 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="7; Antoni Rubió i Lluch 2" target="4; Agro Reus 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="187; Avinguda Barcelona" target="195; Barri  Gaudi">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="10; Avinguda de Marià Fortuny 1" target="168; Jardins de Reus 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="9; Avinguda de Marià Fortuny 2" target="121; Ploms 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="12; Avinguda de Sant Jordi 1" target="88; Niloga 1">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="11; Avinguda de Sant Jordi 2" target="50; Pompeu Fabra 2">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="207; Avinguda de Tarragona  1" target="205; Tecnoparc 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="208; Avinguda de Tarragona  2" target="227; Mas Carpa 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="186; Avinguda del comerç" target="43; Doctor Vilaseca 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="186; Avinguda del comerç" target="116; Plaça Almoster 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="37; Avinguda.  Castellvell 2" target="154; Vall d'Aran">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="37; Avinguda.  Castellvell 2" target="61; IES Domènech i Montaner">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="36; Avinguda. Castellvell 1" target="115; Plaça Almoster 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="195; Barri  Gaudi" target="17; Sagrada Familia">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="14; Barri Fortuny 1" target="27; CAP Marià Fortuny 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="15; Barri Fortuny 2" target="34; Escola M. Fortuny 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="16; Barri Fortuny 2 bis" target="34; Escola M. Fortuny 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="16; Barri Fortuny 2 bis" target="27; CAP Marià Fortuny 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="13; Barri Montserrat" target="52; Flix 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="18; Bellissens 1" target="148; Tanatori 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="19; Bellissens 2" target="232; Nuestra Señora del Mar 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="233; Biblioteca Pere Anguera 1" target="235; Urbanització Mercader">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="234; Biblioteca Pere Anguera 2" target="170; Carles Riba 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="20; Boca de la Mina" target="142; Saragossa">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="27; CAP Marià Fortuny 1" target="46; Estació Autobusos 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="27; CAP Marià Fortuny 1" target="236; Vidal i Barraquer 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="27; CAP Marià Fortuny 1" target="107; Pere Ceremoniós 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="28; CAP Marià Fortuny 2" target="15; Barri Fortuny 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="29; CAP Sant Pere" target="96; Països Catalans">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="165; CESDA 1" target="183; Mas Carpa 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="177; CESDA 2" target="225; Aeroclub de Reus 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="24; Camí de Tarragona 1" target="135; Riera Aragó 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="23; Camí de Tarragona 2" target="30; Carrilet">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="23; Camí de Tarragona 2" target="147; Tanatori 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="26; Camí de Valls 1" target="41; Dom Bosco 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="25; Camí de Valls 2" target="134; Riera Aragó 2">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="171; Carles Riba 1" target="221; E. Eduard Toda 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="170; Carles Riba 2" target="148; Tanatori 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="170; Carles Riba 2" target="75; Mas Abelló 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="30; Carrilet" target="159; Vidal i Barraquer">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="30; Carrilet" target="47; Estació Autobusos 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="31; Cementiri" target="69; Jutjats 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="32; Clarassó" target="190; Rosaleda 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="128; Constantí 1" target="69; Jutjats 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="127; Constantí 2" target="64; Jardins de Reus 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="39; Dipòsit de vehicles 1" target="158; Victor Català 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="38; Dipòsit de vehicles 2" target="7; Antoni Rubió i Lluch 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="42; Doctor  Vilaseca 2" target="187; Avinguda Barcelona">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="43; Doctor Vilaseca 1" target="91; Oques 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="43; Doctor Vilaseca 1" target="93; Oques 3">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="43; Doctor Vilaseca 1" target="92; Oques 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="41; Dom Bosco 1" target="51; Pompeu Fabra 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="40; Dom Bosco 2" target="25; Camí de Valls 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="221; E. Eduard Toda 1" target="233; Biblioteca Pere Anguera 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="222; E. Eduard Toda 2" target="234; Biblioteca Pere Anguera 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="45; El Pinar" target="136; Ripollès">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="44; El Pinar 1 (fora de servei)" target="136; Ripollès">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="209; Escola Alba" target="63; IPM 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="33; Escola M. Fortuny 1" target="14; Barri Fortuny 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="34; Escola M. Fortuny 2" target="153; Urb. Juncosa 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="210; Escola d'idiomes i art" target="209; Escola Alba">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="46; Estació Autobusos 1" target="65; Jaume I 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="46; Estació Autobusos 1" target="95; Pablo Picasso 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="47; Estació Autobusos 2" target="220; Urb. Pàmies 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="47; Estació Autobusos 2" target="224; Jaume Vidal Alcover">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="47; Estació Autobusos 2" target="147; Tanatori 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="49; Estadi Municipal 1" target="144; Sol i Vista 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="203; Fira de Reus 1" target="182; Nuestra Señora del Mar 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="204; Fira de Reus 2" target="206; Tecnoparc 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="52; Flix 1" target="97; Parcel·les Cases 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="53; Flix 2" target="13; Barri Montserrat">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="54; Folch i Torres" target="87; Niloga 2">
+  <data key="d1">7.0</data>
+</edge>
+<edge id="0" source="54; Folch i Torres" target="116; Plaça Almoster 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="55; Font de Rubinat 1" target="111; Passeig de Sunyer 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="56; Font de Rubinat 2" target="110; Passeig de Prim 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="237; Fundació Rosa Maria Vivar 1" target="145; Sant Bernat Calbó 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="238; Fundació Rosa Maria Vivar 2" target="86; Misericòrdia 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="238; Fundació Rosa Maria Vivar 2" target="237; Fundació Rosa Maria Vivar 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="57; Gironès" target="61; IES Domènech i Montaner">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="58; Greco 1" target="70; La Salle 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="59; Greco 2" target="107; Pere Ceremoniós 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="59; Greco 2" target="47; Estació Autobusos 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="198; Hospital 1" target="196; Hospital consultas externas 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="199; Hospital 2" target="202; Regulació Nou Hospital">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="196; Hospital consultas externas 1" target="150; Universitat 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="197; Hospital consultas externas 2" target="199; Hospital 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="61; IES Domènech i Montaner" target="36; Avinguda. Castellvell 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="61; IES Domènech i Montaner" target="154; Vall d'Aran">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="166; IES Gaudí - Mas Carandell" target="20; Boca de la Mina">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="63; IPM 1" target="143; Sol i Vista 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="211; IPM 2" target="210; Escola d'idiomes i art">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="62; Immaculada" target="32; Clarassó">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="168; Jardins de Reus 1" target="128; Constantí 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="64; Jardins de Reus 2" target="9; Avinguda de Marià Fortuny 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="65; Jaume I 1" target="119; Plaça Hèrcules 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="194; Jaume I 2" target="47; Estació Autobusos 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="224; Jaume Vidal Alcover" target="222; E. Eduard Toda 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="67; Joan Rebull 1" target="92; Oques 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="67; Joan Rebull 1" target="93; Oques 3">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="66; Joan Rebull 2" target="129; RENFE 2">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="69; Jutjats 1" target="156; Ventura Gassol 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="68; Jutjats 2" target="31; Cementiri">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="68; Jutjats 2" target="25; Camí de Valls 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="68; Jutjats 2" target="127; Constantí 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="70; La Salle 1" target="101; Pastoreta 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="71; La Salle 2" target="59; Greco 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="200; La Vitxeta" target="155; Ventura Gassol 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="200; La Vitxeta" target="51; Pompeu Fabra 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="200; La Vitxeta" target="116; Plaça Almoster 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="72; Llibertat" target="11; Avinguda de Sant Jordi 2">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="73; Mare Molas 1" target="160; Vilafortuny 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="74; Mare Molas 2" target="138; Riudoms 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="223; Maria Aurèlia Campany" target="236; Vidal i Barraquer 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="172; Mas Abello 1" target="148; Tanatori 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="172; Mas Abello 1" target="171; Carles Riba 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="75; Mas Abelló 2" target="117; Sant Josep 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="77; Mas Batlle 1" target="3; Adrià Gual 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="76; Mas Batlle 2" target="78; Mas de les Ànimes 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="183; Mas Carpa 1" target="207; Avinguda de Tarragona  1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="227; Mas Carpa 2" target="177; CESDA 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="79; Mas de les Animes 1" target="77; Mas Batlle 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="78; Mas de les Ànimes 2" target="132; Reus Transport">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="242; Mercè Rodoreda" target="223; Maria Aurèlia Campany">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="83; Miami 1" target="106; Pere Ceremoniós 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="84; Miami 2" target="146; Sant Bernat Calbó 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="85; Misercòrdia 1" target="237; Fundació Rosa Maria Vivar 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="86; Misericòrdia 2" target="100; Pare Manyanet 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="88; Niloga 1" target="130; RENFE 1">
+  <data key="d1">5.0</data>
+</edge>
+<edge id="0" source="88; Niloga 1" target="116; Plaça Almoster 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="87; Niloga 2" target="72; Llibertat">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="182; Nuestra Señora del Mar 1" target="167; Villablanca 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="232; Nuestra Señora del Mar 2" target="231; Villablanca 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="91; Oques 1" target="118; Plaça de Prim">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="91; Oques 1" target="66; Joan Rebull 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="91; Oques 1" target="42; Doctor  Vilaseca 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="92; Oques 2" target="29; CAP Sant Pere">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="92; Oques 2" target="112; Passeig de Sunyer 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="93; Oques 3" target="66; Joan Rebull 2">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="93; Oques 3" target="29; CAP Sant Pere">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="93; Oques 3" target="118; Plaça de Prim">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="95; Pablo Picasso 1" target="122; Ploms 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="94; Pablo Picasso 2" target="47; Estació Autobusos 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="21; Parc de la Festa 1" target="113; Piscines Municipals 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="22; Parc de la Festa 2" target="216; Rosaleda 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="97; Parcel·les Cases 1" target="152; Urb. Juncosa 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="98; Parcel·les Cases 2" target="53; Flix 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="99; Pare Manyanet 1" target="85; Misercòrdia 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="100; Pare Manyanet 2" target="161; Vilafortuny 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="109; Passeig de Prim 1" target="55; Font de Rubinat 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="110; Passeig de Prim 2" target="102; Pastoreta 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="111; Passeig de Sunyer 1" target="91; Oques 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="111; Passeig de Sunyer 1" target="93; Oques 3">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="112; Passeig de Sunyer 2" target="56; Font de Rubinat 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="108; Passeig dels Plàtans" target="62; Immaculada">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="101; Pastoreta 1" target="109; Passeig de Prim 1">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="102; Pastoreta 2" target="71; La Salle 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="96; Països Catalans" target="187; Avinguda Barcelona">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="96; Països Catalans" target="104; Pelai 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="96; Països Catalans" target="43; Doctor Vilaseca 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="103; Peixateries Velles" target="26; Camí de Valls 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="103; Peixateries Velles" target="133; Riera">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="105; Pelai 1" target="43; Doctor Vilaseca 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="104; Pelai 2" target="211; IPM 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="106; Pere Ceremoniós 1" target="58; Greco 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="107; Pere Ceremoniós 2" target="84; Miami 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="113; Piscines Municipals 1" target="137; Riudoms 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="114; Piscines Municipals 2" target="22; Parc de la Festa 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="115; Plaça Almoster 1" target="130; RENFE 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="116; Plaça Almoster 2" target="37; Avinguda.  Castellvell 2">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="119; Plaça Hèrcules 1" target="124; Raval de Robuster 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="120; Plaça Hèrcules 2" target="194; Jaume I 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="118; Plaça de Prim" target="123; Raval de Martí Folguera">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="122; Ploms 1" target="10; Avinguda de Marià Fortuny 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="121; Ploms 2" target="94; Pablo Picasso 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="51; Pompeu Fabra 1" target="12; Avinguda de Sant Jordi 1">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="50; Pompeu Fabra 2" target="40; Dom Bosco 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="50; Pompeu Fabra 2" target="200; La Vitxeta">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="50; Pompeu Fabra 2" target="155; Ventura Gassol 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="50; Pompeu Fabra 2" target="230; Sant Joan 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="130; RENFE 1" target="67; Joan Rebull 1">
+  <data key="d1">6.0</data>
+</edge>
+<edge id="0" source="130; RENFE 1" target="129; RENFE 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="129; RENFE 2" target="54; Folch i Torres">
+  <data key="d1">8.0</data>
+</edge>
+<edge id="0" source="123; Raval de Martí Folguera" target="219; Raval de Robuster 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="124; Raval de Robuster 1" target="103; Peixateries Velles">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="219; Raval de Robuster 2" target="120; Plaça Hèrcules 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="219; Raval de Robuster 2" target="124; Raval de Robuster 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="126; Recasens i Mercade 1" target="49; Estadi Municipal 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="125; Recasens i Mercadé 2" target="157; Victor Català 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="202; Regulació Nou Hospital" target="198; Hospital 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="132; Reus Transport" target="79; Mas de les Animes 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="133; Riera" target="162; Vilallonga">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="135; Riera Aragó 1" target="26; Camí de Valls 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="134; Riera Aragó 2" target="23; Camí de Tarragona 2">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="136; Ripollès" target="57; Gironès">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="137; Riudoms 1" target="73; Mare Molas 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="138; Riudoms 2" target="114; Piscines Municipals 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="138; Riudoms 2" target="96; Països Catalans">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="190; Rosaleda 1" target="21; Parc de la Festa 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="216; Rosaleda 2" target="108; Passeig dels Plàtans">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="140; Rovira i Virgili 1" target="5; Agro Reus 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="139; Rovira i Virgili 2" target="2; Adrià Gual 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="17; Sagrada Familia" target="166; IES Gaudí - Mas Carandell">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="145; Sant Bernat Calbó 1" target="83; Miami 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="146; Sant Bernat Calbó 2" target="238; Fundació Rosa Maria Vivar 2">
+  <data key="d1">4.0</data>
+</edge>
+<edge id="0" source="229; Sant Joan 1" target="51; Pompeu Fabra 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="230; Sant Joan 2" target="155; Ventura Gassol 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="179; Sant Josep 1" target="172; Mas Abello 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="117; Sant Josep 2" target="151; Universitat 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="142; Saragossa" target="6; Alcolea">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="144; Sol i Vista 1" target="149; Tirant Lo Blanc">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="143; Sol i Vista 2" target="49; Estadi Municipal 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="143; Sol i Vista 2" target="125; Recasens i Mercadé 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="148; Tanatori 1" target="24; Camí de Tarragona 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="148; Tanatori 1" target="95; Pablo Picasso 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="148; Tanatori 1" target="46; Estació Autobusos 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="147; Tanatori 2" target="75; Mas Abelló 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="147; Tanatori 2" target="19; Bellissens 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="205; Tecnoparc 1" target="203; Fira de Reus 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="206; Tecnoparc 2" target="208; Avinguda de Tarragona  2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="149; Tirant Lo Blanc" target="105; Pelai 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="150; Universitat 1" target="179; Sant Josep 1">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="151; Universitat 2" target="197; Hospital consultas externas 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="152; Urb. Juncosa 1" target="33; Escola M. Fortuny 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="153; Urb. Juncosa 2" target="98; Parcel·les Cases 2">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="220; Urb. Pàmies 2" target="16; Barri Fortuny 2 bis">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="235; Urbanització Mercader" target="242; Mercè Rodoreda">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="154; Vall d'Aran" target="45; El Pinar">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="154; Vall d'Aran" target="44; El Pinar 1 (fora de servei)">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="156; Ventura Gassol 1" target="200; La Vitxeta">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="156; Ventura Gassol 1" target="51; Pompeu Fabra 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="156; Ventura Gassol 1" target="229; Sant Joan 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="155; Ventura Gassol 2" target="68; Jutjats 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="158; Victor Català 1" target="126; Recasens i Mercade 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="157; Victor Català 2" target="38; Dipòsit de vehicles 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="159; Vidal i Barraquer" target="28; CAP Marià Fortuny 2">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="236; Vidal i Barraquer 1" target="58; Greco 1">
+  <data key="d1">2.0</data>
+</edge>
+<edge id="0" source="160; Vilafortuny 1" target="99; Pare Manyanet 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="161; Vilafortuny 2" target="74; Mare Molas 2">
+  <data key="d1">3.0</data>
+</edge>
+<edge id="0" source="162; Vilallonga" target="69; Jutjats 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="167; Villablanca 1" target="18; Bellissens 1">
+  <data key="d1">1.0</data>
+</edge>
+<edge id="0" source="231; Villablanca 2" target="204; Fira de Reus 2">
+  <data key="d1">1.0</data>
+</edge>
+</graph></graphml>
